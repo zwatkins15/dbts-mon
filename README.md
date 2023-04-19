@@ -11,6 +11,13 @@ The DBTS (Deer Brook Technical Services) Agent is a simple Python-based client-s
 - Simple JSON-based messaging system for communication between clients and the server
 - Lightweight and easy-to-understand codebase
 
+### Future Features
+
+- Expand data sent by clients to include hostname, most recent apt update/apt upgrade, external IP, IP of eth0, IP of eth1, users on system
+- Expand web interface to look nicer, and have a tasks queue page that allows creation, deletion, editing, and status of tasks
+- Encrypt communication between server and client
+- Modular system for tasks that can be assigned to clients
+
 ## Prerequisites
 
 - Python 3.9+
