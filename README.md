@@ -1,6 +1,6 @@
 NOTE: This project is partially a test of ChatGPT+AutoGPT.
 
-# DBTS-Agent
+# DBTS-Mon
 
 The DBTS (Deer Brook Technical Services) Agent is a simple Python-based client-server system that enables the execution of tasks on connected clients. The server keeps track of clients' check-ins and task statuses, while the clients check in periodically to receive tasks.
 
